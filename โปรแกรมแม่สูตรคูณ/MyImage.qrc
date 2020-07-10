@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="image">
+    <file>button.png</file>
+    <file>Whitescreen.png</file>
+    <file>background.jpg</file>
+  </qresource>
+</RCC>
